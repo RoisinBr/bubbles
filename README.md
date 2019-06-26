@@ -1,6 +1,6 @@
 # Bubbles
 
-[View the website here.](https://bubbles-news-app.herokuapp.com/)
+[View the website here.](https://floating-anchorage-82839.herokuapp.com/)
 
 ## Your Bubble
 
