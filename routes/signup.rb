@@ -12,7 +12,7 @@ post '/signup' do
   user.password = params[:password]
   user.save
 
-  topic_ids = params[:topics_of_interest.map{|topic| Topic.find_by(name: "#{topic}").id}
+  topic_ids = params[:topics_of_interest].map{|topic| Topic.find_by(name: "#{topic}").id}
 
   topic_ids.each do |topic_id|
     users_topic = UsersTopic.new
