@@ -1,7 +1,5 @@
 # Bubbles
 
-[View the website here.](https://floating-anchorage-82839.herokuapp.com/)
-
 ## Your Bubble
 
 With the current algorithms used by social media sites and the closed nature of many netowrks, you can often find yourself in a bubble - seeing only one side to any given story or news article.
